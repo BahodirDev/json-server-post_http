@@ -1,0 +1,19 @@
+{
+  "post_lists": [
+    {
+      "id": 1,
+      "title": "Birinchi maqola",
+      "body": "lorem ipsum"
+    },
+    {
+      "title": "sd",
+      "body": "asd",
+      "id": 2
+    },
+    {
+      "title": "asd",
+      "body": "asd",
+      "id": 3
+    }
+  ]
+}
